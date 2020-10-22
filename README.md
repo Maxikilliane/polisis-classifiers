@@ -1,7 +1,7 @@
 # Polisis Classifiers
 
 This repository builds on the following code https://github.com/SmartDataAnalytics/Polisis_Benchmark to reproduce the results for privacy policy classification from Harkous et al. (2018).
-It also contains the trained classifiers that can be used as they are and it also contains domain-specific word-embeddings.
+It also contains the trained classifiers that can be used as they are, as well as domain-specific word-embeddings.
 
 
 
