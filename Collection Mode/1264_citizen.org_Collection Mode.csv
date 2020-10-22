@@ -1,0 +1,8 @@
+"0","automatically","Implicit"
+"1","you provide","Explicit"
+"0","automatically collect","Implicit"
+"1","you provide","Explicit"
+"0","automatically collect","Implicit"
+"1","If you provide","Explicit"
+"11","we log the IP address","Implicit"
+"11","We also use IP addresses","Implicit"
