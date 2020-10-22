@@ -5,7 +5,7 @@ It also contains the trained classifiers that can be used as they are, as well a
 
 * Use the file `CNN Multilabel Classifier.ipynb` to train the classifier for the main category.
 * Use the file `CNN Multilabel Classifier Attributes.ipynb` to train the classifiers for the attributes.
-* Use the file `predict.py` to get predictions for a privacy policies. `predict.py` expects the privacy policy to be predicted as an array of strings.
+* Use the file `predict.py` to get predictions for a privacy policies. `predict.py` expects the privacy policy as an array of strings.
 
 
 Harkous, H., Fawaz, K., Lebret, R., Schaub, F., Shin, K. G., & Aberer, K. (2018). Polisis: Automated analysis and presentation of privacy policies using deep learning. In Proceedings of the 27th usenix conference on security symposium (p. 531–548). USA: USENIX Association.
